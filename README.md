@@ -18,8 +18,8 @@ License Management FedMake Accelerator Developed by Makers within the Federal, I
 
 ## Deployment Guide
 
-1. Download [license-management.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/license-management.zip)
-2. Import the [license-management.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/license-management.zip) Power Platform solution file into Dataverse.
+1. Download [license-management.zip](https://github.com/FedMake/license-management/raw/main/solution/v1.0.0/license-management.zip)
+2. Import the [license-management.zip](https://github.com/FedMake/license-management/raw/main/solution/v1.0.0/license-management.zip) Power Platform solution file into Dataverse.
 
 ## What is a FedMake Accelerator
 
